@@ -1,7 +1,7 @@
 # NPM MODULE ultra-dev
 ## Description
 ```text
-Ceci est un projet pour créer ensemble un module npm
+Ceci est un module pour facilité le développement node et javascript
 ```
 ## Version
 ```text
