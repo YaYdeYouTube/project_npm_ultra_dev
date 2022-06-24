@@ -14,7 +14,7 @@ const ultraDev = require('Ultra Dev');
 ultraDev.add(x, y);
 
 ```
-x => Valeur n°1
+x => Valeur n°1, 
 y => Valeur n°2
 
 ## substract
